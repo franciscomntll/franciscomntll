@@ -1,4 +1,3 @@
-<img width=190 align="right" src="https://res.cloudinary.com/dc0eddjjt/image/upload/v1622743346/Bebe_ajfwyz.png" />
 ## Hi, I'm Francis 👋🏽
 
 - 👨🏻‍💻 Designer and Web Developer with a passion for code and design beautifully simple things
