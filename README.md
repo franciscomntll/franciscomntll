@@ -8,7 +8,7 @@ const franciscoMontilla = {
   pronouns: "he/him",
   code: ["JavaScript", "HTML", "CSS"],
   tools: ["React", "Next.js", "Node.js", "GraphQL", "Firebase", "Vercel", "MongoDB"],
-  country: "Venezuela",
+  country: "United States",
   links: {
     instagram: "https://instagram.com/franciscomntlla",
     twitter: "https://twitter.com/franciscomntll",
