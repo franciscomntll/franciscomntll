@@ -10,7 +10,7 @@ const franciscoMontilla = {
   tools: ["React", "Next.js", "Node.js", "GraphQL", "Firebase", "Vercel", "MongoDB"],
   country: "United States",
   links: {
-    linkedin: "[https://instagram.com/franciscomntlla](https://www.linkedin.com/in/franciscomntll/)"
+    linkedin: "https://www.linkedin.com/in/franciscomntll/"
   },
 }
 ```
