@@ -16,5 +16,5 @@ const franciscoMontilla = {
 ```
 ---
 ## Hoobies
-I like my job, soccer and good music 💛
+I like my job, soccer, videogames and good music 💛
 
