@@ -6,8 +6,8 @@
 ```js
 const franciscoMontilla = {
   pronouns: "he/him",
-  code: ["JavaScript", "HTML", "CSS"],
-  tools: ["React", "Next.js", "Node.js", "GraphQL", "Firebase", "Vercel", "MongoDB"],
+  code: ["JavaScript", "HTML", "CSS", "Typescript"],
+  tools: ["Remix", "React", "Next.js", "Node.js", "GraphQL", "Firebase", "Vercel", "MongoDB"],
   country: "United States",
   links: {
     linkedin: "https://www.linkedin.com/in/franciscomntll/"
