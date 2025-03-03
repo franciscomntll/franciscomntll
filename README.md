@@ -1,28 +1,33 @@
-# Hi, I'm Francisco Montilla 👋
+# **Hi, I'm Francisco Montilla!** 👋  
 
-🎨 **Designer and Full Stack Web Developer** with a passion for crafting beautiful, functional, and simple digital experiences. I specialize in web development and design, with extensive experience in e-commerce, software development, and digital marketing.
+💻 **Designer & Full Stack Web Developer**  
+🚀 Passionate about **building functional, simple, and beautiful digital experiences.**  
+🎯 Specialized in **web development, e-commerce, and digital marketing.**  
 
-## About Me...
+---
+
+## 🚀 **About Me...**  
 
 ```javascript
 const franciscoMontilla = {
   pronouns: "he/him",
-  code: ["JavaScript", "HTML", "CSS", "TypeScript", "SQL", "Python"],
-  tools: ["Remix", "React", "Next.js", "Node.js", "GraphQL", "Firebase", "Vercel", "MongoDB", "PostgreSQL"],
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "SQL", "Python"],
+  frameworks: ["Remix", "React", "Next.js", "Node.js", "GraphQL"],
+  tools: ["Firebase", "Vercel", "MongoDB", "PostgreSQL"],
+  devOps: ["Docker", "Git", "AWS"],
   design: ["Figma", "Adobe XD", "Photoshop", "Illustrator"],
-  devOps: ["Docker", "Git", "AWS", "DigitalOcean"],
   country: "United States",
   languages: ["Spanish", "English"],
   experience: [
-    "Full Stack Developer at Dango Digital",
-    "Full Stack Developer at Brooklyn Vendor Assurance",
-    "Front End Developer at Marketing Soluciones",
-    "Graphic Designer & Web Developer at Freelancer.com"
+    "Software Engineer at Payabli",
+    "Software Engineer at Dango Digital",
+    "Software Engineer at Brooklyn Vendor Assurance",
+    "Front-End Engineer at Marketing Soluciones"
   ],
-  hobbies: ["soccer", "videogames", "good music"],
+  hobbies: ["Soccer", "Video Games", "Good Music"],
   links: {
     linkedin: "https://www.linkedin.com/in/franciscomntll/",
     website: "https://www.montilla.dev",
-    portfolio: "https://www.freelancer.com/u/franciscomntll",
-  },
+    portfolio: "https://www.freelancer.com/u/franciscomntll"
+  }
 };
