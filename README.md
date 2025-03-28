@@ -1,6 +1,6 @@
 # **Hi, I'm Francisco Montilla!** 👋  
 
-💻 **Designer & Full Stack Web Developer**  
+💻 **Designer & Software engineer**  
 🚀 Passionate about **building functional, simple, and beautiful digital experiences.**  
 🎯 Specialized in **web development, e-commerce, and digital marketing.**  
 
